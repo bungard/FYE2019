@@ -1,0 +1,19 @@
+{
+  "name": "fye2019",
+  "version": "1.0.0",
+  "description": "GitHub Project for FYE 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cseitz5/FYE2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cseitz5/FYE2019/issues"
+  },
+  "homepage": "https://github.com/cseitz5/FYE2019#readme"
+}
