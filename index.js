@@ -17,4 +17,4 @@ for (var i = 1; i <= 100; ++i) {
   str = str + str2 + "\r\n";
   console.log(str2);
 }
-require("fs").writeFileSync(__dirname + "/output", str);
+require("fs").writeFileSync("./output", str);
